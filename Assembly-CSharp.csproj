@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\scripts\MoveLeft.cs" />
      <Compile Include="Assets\scripts\PlayerController.cs" />
+     <Compile Include="Assets\scripts\RepeatBackground.cs" />
      <Compile Include="Assets\scripts\SpawnManager.cs" />
      <None Include="Assets\Course Library\_Source_Files\_LICENSE.txt" />
      <None Include="Assets\Course Library\_Source_Files\Materials\UnlitVertexColour_Alpha.shader" />
