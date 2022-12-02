@@ -657,7 +657,7 @@ PrefabInstance:
     - target: {fileID: 5560963470544133456, guid: efdc2ce66eac144b589bb3d960db99f4,
         type: 3}
       propertyPath: jumpForce
-      value: 500
+      value: 460
       objectReference: {fileID: 0}
     - target: {fileID: 5560963470544133456, guid: efdc2ce66eac144b589bb3d960db99f4,
         type: 3}
@@ -667,7 +667,7 @@ PrefabInstance:
     - target: {fileID: 5560963470544133459, guid: efdc2ce66eac144b589bb3d960db99f4,
         type: 3}
       propertyPath: m_Mass
-      value: 50
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 5560963470544133459, guid: efdc2ce66eac144b589bb3d960db99f4,
         type: 3}
